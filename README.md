@@ -1,4 +1,4 @@
-# White-Box-SMS4
+# White Box SMS4
 本科毕业设计/Undergraduate Graduation Project
 
 alg_Lin.py是我实现的林婷婷学姐的白盒SMS4版本，只实现了加密算法的部分；<br>
